@@ -1,3 +1,3 @@
 # NLP
 
-Each date folder contains the tasks and homework questions and the answers to it.
+Each date folder contains the tasks and homework done during that day.
