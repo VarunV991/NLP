@@ -6,4 +6,4 @@ The tool also gives the user text statistics which contains the count of word, s
 Issues such as reading, language and writing style are given to user to improve the readability of the document.<br>
 Suggestions for improvement are given at the side of the text box.<br>
 
-All the written content of today's content was checked in readable.com. Due to presence of long sentences and presence of adverbs, the readability score of this document is 53.8 according to Flesch Reading Ease.
+All the written content of today's content was checked in readable.com to explore the website. Due to presence of long sentences and presence of adverbs, the readability score of this document is 53.8 according to Flesch Reading Ease.
