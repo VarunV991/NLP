@@ -1,3 +1,3 @@
-# NLP
+# Natural Language Processing
 
-Each date folder contains the tasks and homework done during that day.
+Each folder contains the exercises performed in each task.
